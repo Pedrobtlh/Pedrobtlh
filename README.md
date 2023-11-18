@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src="https://user-images.githubusercontent.com/99741457/159925109-a3f88c93-d7f2-4eb1-a93b-7278fc268fa6.png"  />
+</div>
+
 ## Olá!! ✋
 <br>
 
